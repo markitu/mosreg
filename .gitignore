@@ -36,3 +36,21 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+#Compiled class file
+*.class
+
+#IDEA
+.idea/
+
+#Allure
+.allure/
+
+#Results
+allure-results/
+allure-report/
+screenshots/
+
+#Compiled
+out/
+docs/

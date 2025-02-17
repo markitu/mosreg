@@ -1,4 +1,4 @@
-package doctors;
+package mosreg.utilities;
 
 import mosreg.model.doctor.Doctors;
 import mosreg.model.doctor.Items;
